@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **daniyalrosli@gmail.com**
 
-- ⚡ Fun fact **I also design an UI/UX sometimes as a hobby**
+- ⚡ Fun fact: **Interest in UI/UX, Python, Java and Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
