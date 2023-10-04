@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniyal Rosli</h1>
-<h3 align="center">Machine Learning Student</h3>
+<h3 align="center">Data Science Student</h3>
 
 - 🌱 I’m currently learning **Bachelor of Information Systems (Artificial Intelligence) at UiTM Kedah**
 
 - 📫 How to reach me **daniyalrosli@gmail.com**
 
-- ⚡ Fun fact: **Interest in UI/UX, Python, Java and Flutter**
+- ⚡ Fun fact: **Interest in Python, Java and TensorFlow **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
