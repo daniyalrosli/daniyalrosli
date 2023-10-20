@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniyal Rosli</h1>
-<h3 align="center">Data Science Student</h3>
+<h3 align="center">AI Student</h3>
 
 - 🌱 I’m currently learning **Bachelor of Information Systems (Artificial Intelligence) at UiTM Kedah**
 
