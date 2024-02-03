@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniyal+Rosli!;" />
 </h1>
 
 <h3 align="center">Hello, I'm Daniyal Rosli</h3>
@@ -16,7 +16,7 @@
 
 💬 Feel free to reach out to me at daniyalrosli@gmail.com 😊
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact: I love to explore new things, especially in the world of artificial intelligence, to further upgrade my skills
 
  </div>
  
