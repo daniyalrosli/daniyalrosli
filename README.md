@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Intelligent System Engineering student at UiTM<br><br>📫 How to reach me: daniyalrosli@gmail.com<br><br>💬 Loves any topics regarding ML and full-stack development<br><br>🔭 Seeking to expand my knowledge more about full-stack development and machine learning<br><br>⚡ Fun fact: In my free time I love to watch movies, learn new programming languages/frameworks, and travel<br>
+🌱 Intelligent System Engineering student at UiTM<br><br>📫 How to reach me: daniyalrosli@gmail.com<br><br>💬 Love web and mobile app development and machine learning<br><br>🔭 Seeking to expand my knowledge more about full-stack development and machine learning<br><br>⚡ Fun fact: In my free time I love to watch movies, learn new programming languages/frameworks, and travel<br>
 
 
 
