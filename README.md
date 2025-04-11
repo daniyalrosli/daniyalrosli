@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Daniyal
 
-🎓 Intelligent Systems Engineering student by day — Bug fixer and model trainer by night.  
+🎓 First class Intelligent Systems Engineering Graduate at UiTM.
 💼 Currently a **Data Analyst Intern @ AMD** — turning raw data into sweet insights and probably a few dashboards too.  
 🧠 Passionate about AI, machine learning, and occasionally making my models cry during training.  
 
