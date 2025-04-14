@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 What I Build (and occasionally break)
+## 🛠 What I Build (and occasionally break haha)
 
 - **HeartCare** 💓  
   A system that predicts heart disease so your heart doesn’t skip a beat.  
