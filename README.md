@@ -16,7 +16,7 @@
   Detects suicidal tweets using NLP. Helping the internet, one tweet at a time.  
   Python | Next.js | Flask API
 
-- **BookLens** 📚  
+- **BookLens** 📚 (not done yet) 
   Personalized book recommendations. Because your TBR pile isn’t long enough.  
   FastAPI + MySQL + React
 
