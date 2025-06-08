@@ -9,11 +9,11 @@
 ## 🛠 What I Build (and occasionally break haha)
 
 - **HeartCare** 💓  
-  A system that predicts heart disease so your heart doesn’t skip a beat.  
+  An AI web system that predicts heart disease so your heart doesn’t skip a beat.  
   Flask + ML + Vercel + Next.js
 
 - **CareTweet** 🐦  
-  Detects suicidal tweets using NLP. Helping the internet, one tweet at a time.  
+  A web application powered by machine learning that detects suicidal tweets using NLP. Helping the internet, one tweet at a time.  
   Python | Next.js | Flask API
 
 - **BookLens** 📚 (not done yet) 
@@ -24,8 +24,8 @@
   Sentiment analysis for online reviews. Now your site can understand complaints *before* your boss does.  
   Dashboard + NLP + Vibes
 
-- **FinSent** 📈  
-  Financial sentiment analysis. Basically reads the news so you don’t panic-sell your stocks.  
+- **Fraud Analytics** 📈  
+  Fraud Detection System for financial transactions using machine learning.  
   NLP + Time Series + Market Trends
 
 ---
