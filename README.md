@@ -42,4 +42,3 @@
 
 - Linkedln : Daniyal Rosli
 - Email: daniyalrosli@gmail.com  
-- Portfolio : daniyalrosli.vercel.app
