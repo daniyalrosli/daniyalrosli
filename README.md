@@ -1,4 +1,4 @@
-hello, i'm daniyal, a student, tech enthusiast, inquisitive person
+hello, i'm daniyal, a cute student, tech enthusiast, inquisitive person
 
 i enjoy building things that solve real problems — from machine learning models to dashboards and web apps.
 
