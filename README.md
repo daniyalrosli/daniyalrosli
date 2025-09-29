@@ -1,9 +1,8 @@
-hello, i'm daniyal, a cute student, tech enthusiast, inquisitive person and vibe coder 
+Hi, I’m Daniyal 👋
+Product Development Engineer at AMD 🧩 and loves building practical tech—ML models, dashboards, and web apps 🚀
 
-i enjoy building things that solve real problems — from machine learning models to dashboards and web apps.
+Curious about AI, data, and systems 🧠
+I work with Python, SQL, FastAPI, Flask, Next.js, and Power BI 💻
+Exploring cloud deployment, prompt engineering, and full‑stack projects ☁️🛠️
 
-- 🧠 always curious about how things work – especially in ai, data, and systems.
-- 💻 love working with python, sql, fastapi, flask, next.js, power bi, and more.
-- 🎯 currently exploring cloud deployment, prompt engineering, and full-stack projects.
-
- thanks for stopping by and have a good day! 😊
+Thanks for stopping by!
